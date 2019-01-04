@@ -8,7 +8,7 @@ const config = {
   admins: [],
 
   // Bot Support, level 8 by default. Array of user ID strings.
-  support: [],
+  support: [], // //
 
   // Bot Token
   token: process.env.TOKEN || "Import TOKEN from your .env file",

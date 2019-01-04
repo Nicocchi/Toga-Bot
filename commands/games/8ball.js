@@ -10,7 +10,7 @@ exports.run = async (client, message, args, level) => {
     "No",
     "I do not know",
     "Ask again later",
-    "Ni-Nico Nii?",
+    "Stabs~ nishishishi",
     "Maybe",
     "Hmm, appears to be true..."
   ];
